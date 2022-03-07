@@ -16,5 +16,5 @@ Repositório criado para o desafio de projeto sobre Git/Github
 ##Aula 4
 [Desafio do projeto](https://web.dio.me/lab/criando-seu-primeiro-repositorio-no-github-para-compartilhar-seu-progresso/learning/a1134ba9-3c54-4650-a24a-6964a182d919)
 
-
+## Leia
 [Entendendo o desafio](https://web.dio.me/lab/criando-seu-primeiro-repositorio-no-github-para-compartilhar-seu-progresso/learning/d5854276-7461-4b80-96e3-e8b6f9b21eeb)
